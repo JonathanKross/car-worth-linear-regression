@@ -14,7 +14,7 @@ After completing this assignment, you should be able to:
 * Understand the use dummy variables when fitting lines with linear regression
 
 ## To View This Notebook
-Click here [Upstage](https://github.com/JonathanKross/car-worth-linear-regression/blob/master/car-worth.ipynb "Car-Worth Notebook")
+Click here [Car-Worth Notebook](https://github.com/JonathanKross/car-worth-linear-regression/blob/master/car-worth.ipynb "Car-Worth Notebook")
 
 ## To Run This Notebook
 ### System Requirements / Installation
